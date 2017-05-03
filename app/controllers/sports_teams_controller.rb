@@ -26,6 +26,7 @@ class SportsTeamsController < ApplicationController
   def create
     @sports_team = SportsTeam.new(sports_team_params)
 
+    
     respond_to do |format|
       if @sports_team.save
         format.html { redirect_to @sports_team, notice: 'Sports team was successfully created.' }
