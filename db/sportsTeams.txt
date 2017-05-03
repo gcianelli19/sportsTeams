@@ -1,0 +1,172 @@
+Atlanta Braves	"Atlanta, Georgia"	Turner Field	MLB
+Miami Marlins	"Miami, Florida"	Marlins Park	MLB
+New York Mets	"Flushing, New York"	Citi Field	MLB
+Philadelphia Phillies	"Philadelphia, Pennsylvania"	Citizens Bank Park	MLB
+Washington Nationals	"Washington D.C."	Nationals Park	MLB
+Chicago Cubs	"Chicago, Illinois"	Wrigley Field	MLB
+Cincinnati Reds	"Cincinnati, Ohio"	Great American Ball Park	MLB
+Milwaukee Brewers	"Milwaukee, Wisconsin"	Miller Park	MLB
+Pittsburgh Pirates	"Pittsburgh, Pennsylvania"	PNC Park	MLB
+St. Louis Cardinals	"St. Louis, Missouri"	Busch Stadium	MLB
+Arizona Diamondbacks	"Phoenix, Arizona"	Chase Field	MLB
+Colorado Rockies	"Denver, Colorado"	Coors Field	MLB
+Los Angeles Dodgers	"Los Angeles, California"	Dodger Stadium	MLB
+San Diego Padres	"San Diego, California"	PETCO Park	MLB
+San Francisco Giants	"San Francisco, California"	AT&T Park	MLB
+Baltimore Orioles	"Baltimore, Maryland"	Oriole Park at Camden Yards	MLB
+Boston Red Sox	"Boston, Massachusetts"	Fenway Park	MLB
+New York Yankees	"Bronx, New York"	Yankee Stadium	MLB
+Tampa Bay Rays	"St. Petersburg, Florida"	Tropicana Field	MLB
+Toronto Blue Jays	"Toronto, Ontario"	Rogers Centre	MLB
+Chicago White Sox	"Chicago, Illinois"	U.S. Cellular Field	MLB
+Cleveland Indians	"Cleveland, Ohio"	Progressive Field	MLB
+Detroit Tigers	"Detroit, Michigan"	Comerica Park	MLB
+Kansas City Royals	"Kansas City, Missouri"	Kauffman Stadium	MLB
+Minnesota Twins	"Minneapolis, Minnesota"	Target Field	MLB
+Houston Astros	"Houston, Texas"	Minute Maid Park	MLB
+Los Angeles Angels of Anaheim	"Anaheim, California"	Angel Stadium of Anaheim	MLB
+Oakland Athletics	"Oakland, California"	O.co Coliseum	MLB
+Seattle Mariners	"Seattle, Washington"	Safeco Field	MLB
+Texas Rangers	"Arlington, Texas"	Globe Life Park in Arlington	MLB
+Boston Celtics	"Boston, Massachusetts"	TD Garden	NBA
+Brooklyn Nets	"New York City, New York"	Barclays Center	NBA
+New York Knicks	"New York City, New York"	Madison Square Garden	NBA
+Philadelphia 76ers	"Philadelphia, Pennsylvania"	Wells Fargo Center	NBA
+Toronto Raptors	"Toronto, Ontario"	Air Canada Centre	NBA
+Chicago Bulls	"Chicago, Illinois"	United Center	NBA
+Cleveland Cavaliers	"Cleveland, Ohio"	Quicken Loans Arena	NBA
+Detroit Pistons	"Auburn Hills, Michigan"	The Palace of Auburn Hills	NBA
+Indiana Pacers	"Indianapolis, Indiana"	Bankers Life Fieldhouse	NBA
+Milwaukee Bucks	"Milwaukee, Wisconsin"	BMO Harris Bradley Center	NBA
+Atlanta Hawks	"Atlanta, Georgia"	Philips Arena	NBA
+Charlotte Hornets	"Charlotte, North Carolina"	Time Warner Cable Arena	NBA
+Miami Heat	"Miami, Florida"	AmericanAirlines Arena	NBA
+Orlando Magic	"Orlando, Florida"	Amway Center	NBA
+Washington Wizards	"Washington D.C."	Verizon Center	NBA
+Denver Nuggets	"Denver, Colorado"	Pepsi Center	NBA
+Minnesota Timberwolves	"Minneapolis, Minnesota"	Target Center	NBA
+Oklahoma City Thunder	"Oklahoma City, Oklahoma"	Chesapeake Energy Arena	NBA
+Portland Trail Blazers	"Portland, Oregon"	Moda Center	NBA
+Utah Jazz	"Salt Lake City, Utah"	EnergySolutions Arena	NBA
+Golden State Warriors	"Oakland, California"	Oracle Arena	NBA
+Los Angeles Clippers	"Los Angeles, California"	Staples Center	NBA
+Los Angeles Lakers	"Los Angeles, California"	Staples Center	NBA
+Phoenix Suns	"Phoenix, Arizona"	Talking Stick Resort Arena	NBA
+Sacramento Kings	"Sacramento, California"	Sleep Train Arena	NBA
+Dallas Mavericks	"Dallas, Texas"	American Airlines Center	NBA
+Houston Rockets	"Houston, Texas"	Toyota Center	NBA
+Memphis Grizzlies	"Memphis, Tennessee"	FedExForum	NBA
+New Orleans Pelicans	"New Orleans, Louisiana"	Smoothie King Center	NBA
+San Antonio Spurs	"San Antonio, Texas"	AT&T Center	NBA
+Atlanta Dream	"Atlanta, Georgia"	Philips Arena	WNBA
+Chicago Sky	"Rosemont, Illinois"	Allstate Arena	WNBA
+Connecticut Sun	"Uncasville, Connecticut"	Mohegan Sun Arena	WNBA
+Indiana Fever	"Indianapolis, Indiana"	Bankers Life Fieldhouse	WNBA
+New York Liberty	"New York, New York"	Madison Square Garden	WNBA
+Washington Mystics	Washington D.C.	Verizon Center	WNBA
+Dallas Wings	"Arlington, Texas"	College Park Center	WNBA
+Los Angeles Sparks	"Los Angeles, California"	Staples Center	WNBA
+Minnesota Lynx	"Minneapolis, Minnesota"	Target Center	WNBA
+Phoenix Mercury	"Phoenix, Arizona"	Talking Stick Resort Arena	WNBA
+San Antonio Stars	"San Antonio, Texas"	AT&T Center	WNBA
+Seattle Storm	"Seattle, Washington"	KeyArena	WNBA
+Cleveland Gladiators	"Cleveland, Ohio"	Quicken Loans Arena	AFL
+Jacksonville Sharks	"Jacksonville, Florida"	Jacksonville Veterans Memorial Arena	AFL
+Orlando Predators	"Orlando, Florida"	CFE Arena	AFL
+Philadelphia Soul	"Philadelphia, Pennsylvania"	Wells Fargo Center	AFL
+Tampa Bay Storm	"Tampa, Florida"	Amalie Arena	AFL
+Arizona Rattlers	"Phoenix, Arizona"	Talking Stick Resort Arena	AFL
+Los Angeles Kiss	"Anaheim, California"	Honda Center	AFL
+Portland Thunder	"Portland, Oregon"	Moda Center	AFL
+San Jose SaberCats	"San Jose, California"	SAP Center at San Jose	AFL
+Hamilton Tiger-Cats	"Hamilton, Ontario"	Tim Hortons Field	CFL
+Montreal Alouettes	"Montreal, Quebec"	Stade Percival-Molson	CFL
+Ottawa Redblacks	"Ottawa, Ontario"	TD Place Stadium	CFL
+Toronto Argonauts	"Toronto, Ontario"	Rogers Centre	CFL
+BC Lions	"Vancouver, British Columbia"	BC Place	CFL
+Calgary Stampeders	"Calgary, Alberta"	McMahon Stadium	CFL
+Edmonton Eskimos	"Edmonton, Alberta"	Commonwealth Stadium	CFL
+Saskatchewan Roughriders	"Regina, Saskatchewan"	Mosaic Stadium at Taylor Field	CFL
+Winnipeg Blue Bombers	"Winnipeg, Manitoba"	Investors Group Field	CFL
+Buffalo Bills	"Orchard Park, New York"	Ralph Wilson Stadium	NFL
+Miami Dolphins	"Miami Gardens, Florida"	Sun Life Stadium	NFL
+New England Patriots	"Foxborough, Massachusetts"	Gillette Stadium	NFL
+New York Jets	"East Rutherford, New Jersey"	MetLife Stadium	NFL
+Baltimore Ravens	"Baltimore, Maryland"	M&T Bank Stadium	NFL
+Cincinnati Bengals	"Cincinnati, Ohio"	Paul Brown Stadium	NFL
+Cleveland Browns	"Cleveland, Ohio"	FirstEnergy Stadium	NFL
+Pittsburgh Steelers	"Pittsburgh, Pennsylvania"	Heinz Field	NFL
+Houston Texans	"Houston, Texas"	NRG Stadium	NFL
+Indianapolis Colts	"Indianapolis, Indiana"	Lucas Oil Stadium	NFL
+Jacksonville Jaguars	"Jacksonville, Florida"	EverBank Field	NFL
+Tennessee Titans	"Nashville, Tennessee"	LP Field	NFL
+Denver Broncos	"Denver, Colorado"	Sports Authority Field at Mile High	NFL
+Kansas City Chiefs	"Kansas City, Missouri"	Arrowhead Stadium	NFL
+Oakland Raiders	"Oakland, California"	O.co Coliseum	NFL
+San Diego Chargers	"San Diego, California"	Qualcomm Stadium	NFL
+Dallas Cowboys	"Arlington, Texas"	AT&T Stadium	NFL
+New York Giants	"East Rutherford, New Jersey"	MetLife Stadium	NFL
+Philadelphia Eagles	"Philadelphia, Pennsylvania"	Lincoln Financial Field	NFL
+Washington Redskins	"Landover, Maryland"	FedExField	NFL
+Chicago Bears	"Chicago, Illinois"	Soldier Field	NFL
+Detroit Lions	"Detroit, Michigan"	Ford Field	NFL
+Green Bay Packers	"Green Bay, Wisconsin"	Lambeau Field	NFL
+Minnesota Vikings	"Minneapolis, Minnesota"	TCF Bank Stadium	NFL
+Atlanta Falcons	"Atlanta, Georgia"	Georgia Dome	NFL
+Carolina Panthers	"Charlotte, North Carolina"	Bank of America Stadium	NFL
+New Orleans Saints	"New Orleans, Louisiana"	Mercedes-Benz Superdome	NFL
+Tampa Bay Buccaneers	"Tampa, Florida"	Raymond James Stadium	NFL
+Arizona Cardinals	"Glendale, Arizona"	University of Phoenix Stadium	NFL
+St. Louis Rams	"St. Louis, Missouri"	Edward Jones Dome	NFL
+San Francisco 49ers	"Santa Clara, California"	Levi's Stadium	NFL
+Seattle Seahawks	"Seattle, Washington"	CenturyLink Field	NFL
+Carolina Hurricanes	"Raleigh, North Carolina"	PNC Arena	NHL
+Columbus Blue Jackets	"Columbus, Ohio"	Nationwide Arena	NHL
+New Jersey Devils	"Newark, New Jersey"	Prudential Center	NHL
+New York Islanders	"New York City, New York"	Barclays Center	NHL
+New York Rangers	"New York City, New York"	Madison Square Garden	NHL
+Philadelphia Flyers	"Philadelphia, Pennsylvania"	Wells Fargo Center	NHL
+Pittsburgh Penguins	"Pittsburgh, Pennsylvania"	Consol Energy Center	NHL
+Washington Capitals	"Washington D.C."	Verizon Center	NHL
+Boston Bruins	"Boston, Massachusetts"	TD Garden	NHL
+Buffalo Sabres	"Buffalo, New York"	First Niagara Center	NHL
+Detroit Red Wings	"Detroit, Michigan"	Joe Louis Arena	NHL
+Florida Panthers	"Sunrise, Florida"	BB&T Center	NHL
+Montreal Canadiens	"Montreal, Quebec"	Bell Centre	NHL
+Ottawa Senators	"Ottawa, Ontario"	Canadian Tire Centre	NHL
+Tampa Bay Lightning	"Tampa, Florida"	Amalie Arena	NHL
+Toronto Maple Leafs	"Toronto, Ontario"	Air Canada Centre	NHL
+Chicago Blackhawks	"Chicago, Illinois"	United Center	NHL
+Colorado Avalanche	"Denver, Colorado"	Pepsi Center	NHL
+Dallas Stars	"Dallas, Texas"	American Airlines Center	NHL
+Minnesota Wild	"Saint Paul, Minnesota"	Xcel Energy Center	NHL
+Nashville Predators	"Nashville, Tennessee"	Bridgestone Arena	NHL
+St. Louis Blues	"St. Louis, Missouri"	Scottrade Center	NHL
+Winnipeg Jets	"Winnipeg, Manitoba"	MTS Centre	NHL
+Anaheim Ducks	"Anaheim, California"	Honda Center	NHL
+Arizona Coyotes	"Glendale, Arizona"	Gila River Arena	NHL
+Calgary Flames	"Calgary, Alberta"	Scotiabank Saddledome	NHL
+Edmonton Oilers	"Edmonton, Alberta"	Rexall Place	NHL
+Los Angeles Kings	"Los Angeles, California"	Staples Center	NHL
+San Jose Sharks	"San Jose, California"	SAP Center at San Jose	NHL
+Vancouver Canucks	"Vancouver, British Columbia"	Rogers Arena	NHL
+Chicago Fire	"Bridgeview, Illinois"	Toyota Park	MLS
+Columbus Crew SC	"Columbus, Ohio"	Mapfre Stadium	MLS
+D.C. United	"Washington D.C."	Robert F. Kennedy Memorial Stadium	MLS
+Montreal Impact	"Montreal, Quebec"	Saputo Stadium	MLS
+New England Revolution	"Foxborough, Massachusetts"	Gillette Stadium	MLS
+New York City FC	"Bronx, New York"	Yankee Stadium	MLS
+New York Red Bulls	"Harrison, New Jersey"	Red Bull Arena	MLS
+Orlando City SC	"Orlando, Florida"	Orlando Citrus Bowl Stadium	MLS
+Philadelphia Union	"Chester, Pennsylvania"	PPL Park	MLS
+Toronto FC	"Toronto, Ontario"	BMO Field	MLS
+Colorado Rapids	"Commerce City, Colorado"	Dick's Sporting Goods Park	MLS
+FC Dallas	"Frisco, Texas"	Toyota Stadium	MLS
+Houston Dynamo	"Houston, Texas"	BBVA Compass Stadium	MLS
+LA Galaxy	"Carson, California"	StubHub Center	MLS
+Portland Timbers	"Portland, Oregon"	Providence Park	MLS
+Real Salt Lake	"Sandy, Utah"	Rio Tinto Stadium	MLS
+San Jose Earthquakes	"San Jose, California"	Avaya Stadium	MLS
+Seattle Sounders FC	"Seattle, Washington"	CenturyLink Field	MLS
+Sporting Kansas City	"Kansas City, Kansas"	Sporting Park	MLS
+Vancouver Whitecaps FC	"Vancouver, British Columbia"	BC Place	MLS
