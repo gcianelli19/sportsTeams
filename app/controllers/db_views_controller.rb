@@ -28,6 +28,7 @@ class DbViewsController < ApplicationController
     def editCustom
     end
 
+
     private
     # Use callbacks to share common setup or constraints between actions.
     def set_sports_team
@@ -38,4 +39,6 @@ class DbViewsController < ApplicationController
     def sports_team_params
       params.require(:sports_team).permit(:teamName, :city, :stadium, :league)
     end
+
+    d
 end

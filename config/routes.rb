@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  resources :stadia
+  resources :leagues
+  resources :cities
+  resources :teams
   get 'home/index'
 
   get 'db_views/teamSort'
@@ -9,6 +13,9 @@ Rails.application.routes.draw do
 
   get 'search/search'
   post 'search/search'
+
+  get 'search/picker'
+  post 'search/picker'
 
   resources :sports_teams
 

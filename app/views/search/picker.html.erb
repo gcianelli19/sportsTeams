@@ -1,0 +1,24 @@
+<p> <h1>Search</h1> </p>
+<%= form_tag :action => 'picker' do %>
+<p>What data point are you looking for?:
+<%= label(:teamLabel, "Team Name") %>
+<%= radio_button_tag(:selection, "teamName")%>
+<%= label(:stadiumLabel, "Stadium") %>
+<%= radio_button_tag(:selection, "stadium")%>
+<%= label(:cityLabel, "City") %>
+<%= radio_button_tag(:selection, "city")%>
+<%= label(:leagueLabel, "League") %>
+<%= radio_button_tag(:selection, "league")%>
+
+<br/>
+
+
+<% if @queryResults > 0 %>
+        <p> Here are the search results:</p>
+        <%@queryResults.each do |team| %>
+        <%=select(:aTeam, '<option value="1">'+@team.teamName+'"</option>') %>
+        <p>
+        <%end%>
+<% end %>
+<%= submit_tag 'Submit' %>
+<% end %>
